@@ -1,0 +1,34 @@
+{
+    "navbar": {
+        "home": "الرئيسيه",
+        "products": "المنتجات",
+        "categories":"التصنيفات",
+        "brands":"براندات",
+        "signout":"تسجيل الخروح",
+        "lang":"اللغه"
+        
+    },
+    "home": {
+        "Populer Category": "التصنيفات الرائجه",
+        "Populer Product": "المنتجات الرائجه",
+        "All Brands":"البراندات",
+        "All Categories":"التصنيفات",
+        "All Products":"المنتجات",
+        "Shop Cart":"عربه التسوق",
+        "Total Cart Price":"السعر الكلي",
+        "details product":"تفاصيل المنتج",
+        "Add To Cart":"اضافه الي العربه",
+        "email":"البريد الالكتروني",
+        "login":"تسجيل الدخول",
+        "password":"الرقم السري",
+        
+        "Verify Email":"التحقق من البريد الالكتروني" },
+    "footer": {
+        "Get The FreshCart App": "FreshCart احصل علي تطبيق ",
+        "We Will Send You a Link, Open it on Your Phone to download the app": "سنرسل لك الرابط ,افتحه علي هاتفك لتنزيل التطبيق ",
+        "Share App Link":"شارك رابط التطبيق",
+        "Payment partners":"شركاء الدفق",
+        "Get Deliveries with FreshCart":" FreshCart احصل علي عمليات التسليم مع"
+
+    }
+}
